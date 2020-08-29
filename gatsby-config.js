@@ -17,7 +17,7 @@ module.exports = {
       options: {
         fonts: [
           `Nosifer`,
-          `Special Elite` // you can also specify font weights and styles
+          `Oswald` // you can also specify font weights and styles
         ],
         display: 'swap'
       }
