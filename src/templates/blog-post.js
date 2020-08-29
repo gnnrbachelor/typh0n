@@ -19,7 +19,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <header>
           <h1
             style={{
-              marginTop: `3em`,
               marginBottom: 0,
             }}
           >
@@ -28,7 +27,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <p
             style={{
               display: `block`,
-              marginBottom: `3em`,
             }}
           >
             {post.frontmatter.date}

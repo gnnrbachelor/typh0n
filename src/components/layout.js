@@ -17,7 +17,6 @@ const Layout = ({ location, title, children }) => {
       <h1
         style={{
           fontFamily: `Nosifer, cursive`,
-          marginBottom: `3em`,
           marginTop: 0,
         }}
       >

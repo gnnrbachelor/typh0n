@@ -10,21 +10,17 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
+      <SEO title="Typh0n" />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: `3em`,
-                }}
-              >
+            <header className={"titleHeader"}>
+              <h1>
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
-              </h3>
+              </h1>
               <small>{node.frontmatter.date}</small>
             </header>
             <section>

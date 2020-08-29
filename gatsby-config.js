@@ -5,7 +5,7 @@ module.exports = {
       name: `typh0n`,
       summary: `I write about art and the Occult.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A microblog of Luciferian art.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `typh0n`,
@@ -76,7 +76,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/bapho.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
