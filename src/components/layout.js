@@ -10,6 +10,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
+          fontFamily: `Nosifer, cursive`,
           marginBottom: `3em`,
           marginTop: 0,
         }}
@@ -18,6 +19,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textDecoration: `none`,
           }}
           to={`/`}
         >
@@ -37,6 +39,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textDecoration: `none`,
           }}
           to={`/`}
         >
@@ -50,7 +53,7 @@ const Layout = ({ location, title, children }) => {
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: `3em`,
+        maxWidth: `600px`,
         padding: `3em`,
       }}
     >
