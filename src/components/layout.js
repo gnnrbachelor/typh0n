@@ -8,6 +8,12 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
+     <div
+       style={{
+         display: `grid`,
+         gridTemplateColumns: `500px 200px`,
+    }}
+    >
       <h1
         style={{
           fontFamily: `Nosifer, cursive`,
@@ -26,9 +32,19 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
+      <img src="https://dl.dropboxusercontent.com/s/9erwmuivkie355s/baphomet.gif?dl=0" alt="profile pic" class="profile" />
+      
+     </div>
     )
   } else {
     header = (
+    <div
+      style={{
+         display: `grid`,
+         gridTemplateColumns: `500px 200px`,
+    }}
+    >
+
       <h3
         style={{
           fontFamily: `Nosifer, cursive`,
@@ -46,6 +62,8 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h3>
+       <a href="https://twitter.com/typh0n1an">@Typh0n1an</a>
+     </div>
     )
   }
   return (
@@ -60,7 +78,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Typh0n
+       <p>Follow me on Twitter. <a href="https://twitter.com/typh0n1an">@Typh0n1an</a></p> 
       </footer>
     </div>
   )
