@@ -31,7 +31,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
-      <img src="https://dl.dropboxusercontent.com/s/9erwmuivkie355s/baphomet.gif?dl=0" alt="profile pic" class="profile" />
+      <a href="https://twitter.com/typh0n1an"><img src="https://dl.dropboxusercontent.com/s/9erwmuivkie355s/baphomet.gif?dl=0" alt="profile pic" class="profile" /></a>
       
      </div>
     )
