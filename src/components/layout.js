@@ -3,11 +3,8 @@ import { Link } from "gatsby"
 
 
 const Layout = ({ location, title, children }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  let header
 
-  if (location.pathname === rootPath) {
-    header = (
+  let header = (
      <div
        style={{
          display: `grid`,
@@ -35,36 +32,6 @@ const Layout = ({ location, title, children }) => {
       
      </div>
     )
-  } else {
-    header = (
-    <div
-      style={{
-         display: `grid`,
-         gridTemplateColumns: `500px 200px`,
-    }}
-    >
-
-      <h3
-        style={{
-          fontFamily: `Nosifer, cursive`,
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-            textDecoration: `none`,
-          }}
-          to={`/`}
-        >
-          {title}
-        </Link>
-      </h3>
-       <a href="https://twitter.com/typh0n1an">@Typh0n1an</a>
-     </div>
-    )
-  }
   return (
     <div
       style={{
