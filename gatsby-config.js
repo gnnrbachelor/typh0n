@@ -5,7 +5,7 @@ module.exports = {
       name: `typh0n`,
       summary: `I write about art and the Occult.`,
     },
-    description: `A microblog of Luciferian art.`,
+    description: `A microblog of Luciferian Magick and Art.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `typh0n`,
