@@ -1,6 +1,6 @@
 ---
 title: The Awakening
-date: "2015-09-15"
+date: "2020-09-15"
 description: "Self-deification, Enlightenment, And The Path of Lucifer"
 ---
 
