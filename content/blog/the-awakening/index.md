@@ -12,7 +12,7 @@ Every human wants to be a god. We are driven from within toward greater expansio
 
 No one wants to be a slave. And yet the world is filled with religions, institutions, and traditions that train us to be docile, subservient, and domesticated. Everything in our soul cries out for freedom, everything in our civilized life keeps us in a cage.
 
-In traditional Judeo-Christian mythology the Serpent was a figure of evil, coaxing Eve from a state of pristine happiness into chaos and destruction. "Ye shall be as gods" (Genesis 3:5). These traditions make our innate drive toward self-evolution the cardinal sin from which all others flow. Let's consider an another interpretation of this myth. Greek mythology provides a unique counter-point in the story of Prometheus. He brought Divine fire down to man, awakening us from a state of perpetual animal subservience to the gods. This is why subversive mystical traditions in Christian cultures have always seen Lucifer as a figure of enlightenment, reason, and radical individuality.
+In traditional Judeo-Christian mythology the Serpent was a figure of evil, coaxing Eve from a state of pristine happiness into chaos and destruction. "Ye shall be as gods" (Genesis 3:5). These traditions make our innate drive toward self-evolution the cardinal sin from which all others flow. Let's consider another interpretation of this myth. Greek mythology provides a unique counter-point in the story of Prometheus. He brought Divine fire down to man, awakening us from a state of perpetual animal subservience to the gods. This is why subversive mystical traditions in Christian cultures have always seen Lucifer as a figure of enlightenment, reason, and radical individuality.
 
 ![Paradise Lost](./paradise_lost_satan.jpg)
 

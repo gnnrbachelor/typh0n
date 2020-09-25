@@ -15,3 +15,7 @@ a {
 a:hover {
  color: orange;
 }
+
+h1 {
+  font-size: 2em;
+}
