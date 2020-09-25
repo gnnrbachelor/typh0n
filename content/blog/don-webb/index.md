@@ -1,6 +1,6 @@
 ---
 title: Interview with Don Webb
-date: "2020-09-15"
+date: "2020-09-20"
 description: Interview with Don Webb former High Priest of the Temple of Set.
 ---
 
