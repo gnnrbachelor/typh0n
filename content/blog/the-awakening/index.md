@@ -6,7 +6,7 @@ description: "Self-deification, Enlightenment, And The Path of Lucifer"
 
 ![The Hermetic Triump](./hermetic_triumph.jpg).
 
-> "I was in the death struggle with self: God and Satan fought for my soul those three long hours. God conquered — now I have only one doubt left — which of the twain was God? -Aleister Crowley."
+> "I was in the death struggle with self: God and Satan fought for my soul those three long hours. God conquered — now I have only one doubt left — which of the twain was God?" -Aleister Crowley.
 
 Every human wants to be a god. We are driven from within toward greater expansion of the Self. More power. More knowledge. Greater awakening. Our earliest ancestors with moon-light sacrificial rituals and the modern psychonaut hypnotically tripping to EDM have the same goal. Self-Realization. Cosmic Consciousness. Self-deification. 
 
