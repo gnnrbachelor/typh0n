@@ -1,7 +1,7 @@
 ---
 title: The Awakening
 date: "2020-09-15"
-description: "Self-deification, Enlightenment, And The Path of Lucifer"
+description: "Self-deification, Enlightenment, And The Path of Lucifer."
 ---
 
 ![The Hermetic Triump](./hermetic_triumph.jpg).
