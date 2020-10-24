@@ -13,8 +13,8 @@ const Layout = ({ location, title, children }) => {
     >
       <h1
         style={{
-          fontFamily: `Nosifer, cursive`,
-          marginTop: 0,
+          fontFamily: `Special Elite, cursive`,
+          fontSize: `3em`,
         }}
       >
         <Link
@@ -28,7 +28,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
-      <a href="https://twitter.com/typh0n1an"><img src="https://dl.dropboxusercontent.com/s/9erwmuivkie355s/baphomet.gif?dl=0" alt="profile pic" class="profile" /></a>
+      <a href="https://twitter.com/typh0n1an"><img src="https://dl.dropboxusercontent.com/s/en3lecnk7xa2k18/profile.gif?dl=0" alt="profile pic" class="profile" /></a>
       
      </div>
     )
