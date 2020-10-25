@@ -8,7 +8,7 @@ const Layout = ({ location, title, children }) => {
      <div
        style={{
          display: `grid`,
-         gridTemplateColumns: `500px 200px`,
+         gridTemplateColumns: `3fr 1fr`,
     }}
     >
       <h1
