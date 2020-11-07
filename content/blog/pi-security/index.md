@@ -1,6 +1,6 @@
 ---
 title: Pi Security 
-date: "2020-09-20"
+date: "2020-10-01"
 description: How to make a video surveillance system from a $20 Raspberry Pi Zero.
 ---
 
