@@ -16,8 +16,8 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `Nosifer`,
-          `Oswald` // you can also specify font weights and styles
+          `Special Elite`,
+          `Courier Prime` // you can also specify font weights and styles
         ],
         display: 'swap'
       }
