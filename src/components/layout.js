@@ -28,7 +28,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
-      <a href="https://twitter.com/typh0n1an"><img src="https://dl.dropboxusercontent.com/s/en3lecnk7xa2k18/profile.gif?dl=0" alt="profile pic" class="profile" /></a>
+      <a href="https://twitter.com/bachelor_gunnar"><img src="https://dl.dropboxusercontent.com/s/en3lecnk7xa2k18/profile.gif?dl=0" alt="profile pic" class="profile" /></a>
       
      </div>
     )
@@ -44,7 +44,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-       <p>Follow me on Twitter. <a href="https://twitter.com/typh0n1an">@Typh0n1an</a></p> 
+       <p>Follow me on <a href="https://twitter.com/bachelor_gunnar">Twitter</a></p> 
       </footer>
     </div>
   )

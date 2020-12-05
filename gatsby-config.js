@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `typh0n`,
+    title: `Gunnar Bachelor`,
     author: {
-      name: `typh0n`,
+      name: `Gunnar Bachelor`,
       summary: `I write about hacking and cybersecurity.`,
     },
     description: `A microblog about hacking and cybersecurity.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://www.gunnarbachelor.com/`,
     social: {
-      twitter: `typh0n`,
+      twitter: `@bachelor_gunnar`,
     },
   },
   plugins: [
@@ -71,8 +71,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Gunnar Bachelor`,
+        short_name: `gunnar`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
