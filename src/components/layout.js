@@ -17,19 +17,9 @@ const Layout = ({ location, title, children }) => {
           fontSize: `3em`,
         }}
       >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-            textDecoration: `none`,
-          }}
-          to={`/`}
-        >
           {title}
-        </Link>
       </h1>
-      <a href="https://twitter.com/bachelor_gunnar"><img src="https://dl.dropboxusercontent.com/s/en3lecnk7xa2k18/profile.gif?dl=0" alt="profile pic" class="profile" /></a>
-      
+      <img src="https://dl.dropboxusercontent.com/s/en3lecnk7xa2k18/profile.gif?dl=0" alt="profile pic" class="profile" />
      </div>
     )
   return (
@@ -44,7 +34,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-       <p>Follow me on <a href="https://twitter.com/bachelor_gunnar">Twitter</a></p> 
+       <p>Contact me using <a href="https://keybase.io/gnnrbachelor">Keybase</a>.</p> 
       </footer>
     </div>
   )
