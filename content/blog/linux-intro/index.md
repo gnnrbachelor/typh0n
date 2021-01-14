@@ -15,7 +15,7 @@ Microsoft has long been known as the most vunerable operating system on the mark
 ##3. Active Community.
 The Linux community is passionate about what they do. Linux development is a labor of love. New free software is created and upgraded daily. Nearly every piece of proprietary software available on a Windows or Mac system has a free alternative in the Linux cosmos. Whatever you want to do with your system, chances are Linux has you covered for free. Resources to learn their system are provided in abundance online at no cost. The Linux community is unparalleled in it's dedication to bringing open source to every new enthusiast. We're always looking for converts. 
 
-Here I've linked some resources for downloading, installing, and mastering Linux for yourself.[You can download a copy now and have it running on your computer in an hour](https://ubuntu.com/download/desktop). I'm personally available for anyone thinking about making the switch. Contact me on [Twitter](https://twitter.com/typh0n1an). If you're done with the shallow end of the pool and want to seize control of your digital life, Linux is the answer.
+Here I've linked some resources for downloading, installing, and mastering Linux for yourself.[You can download a copy now and have it running on your computer in an hour](https://ubuntu.com/download/desktop). I'm personally available for anyone thinking about making the switch. Contact me on [Twitter](https://twitter.com/gunnar_bachelor). If you're done with the shallow end of the pool and want to seize control of your digital life, Linux is the answer.
 
 ##Resources
 [How to install Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)<br/>

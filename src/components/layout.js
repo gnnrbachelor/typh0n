@@ -11,14 +11,14 @@ const Layout = ({ location, title, children }) => {
          gridTemplateColumns: `3fr 1fr`,
     }}
     >
-      <h1
+      <Link to="/"><h1
         style={{
           fontFamily: `Special Elite, cursive`,
           fontSize: `3em`,
         }}
       >
           {title}
-      </h1>
+      </h1></Link>
       <img src="https://dl.dropboxusercontent.com/s/en3lecnk7xa2k18/profile.gif?dl=0" alt="profile pic" class="profile" />
      </div>
     )
@@ -34,7 +34,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-       <p>Contact me using <a href="https://keybase.io/gnnrbachelor">Keybase</a>.</p> 
+       <p>Contact me on <a href="https://twitter.com/gunnar_bachelor">Twitter</a>.</p> 
       </footer>
     </div>
   )
